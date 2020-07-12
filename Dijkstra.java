@@ -1,7 +1,6 @@
 // Anthony Moore
-// CS2 MW 4p - 6p
-// Dijkstra Assignment
-// Runs with input file named "cop3503-asn2-input.txt"
+// Dijkstra Algorithm Implementation
+// Runs with input file named "input.txt"
 
 import java.io.File;
 import java.io.PrintWriter;
